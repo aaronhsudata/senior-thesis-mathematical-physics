@@ -1,0 +1,1153 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.25)  22 JUN 2014 23:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**aaron_hsu_thesis_final_corrected.tex
+(./aaron_hsu_thesis_final_corrected.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+For additional information on amsmath, use the `?' option.
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.
+cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.
+sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.st
+y
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+) (c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/frontendlayer/tik
+z.sty
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgf.st
+y
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfrcs.
+sty
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfut
+il-common.tex
+\pgfutil@everybye=\toks29
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfut
+il-latex.def
+\pgfutil@abb=\box30
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfrc
+s.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgfcor
+e.sty
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/systemlayer/pgfsy
+s.sty
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf
+sys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfke
+ys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfke
+ysfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen114
+\pgf@y=\dimen115
+\pgf@xa=\dimen116
+\pgf@ya=\dimen117
+\pgf@xb=\dimen118
+\pgf@yb=\dimen119
+\pgf@xc=\dimen120
+\pgf@yc=\dimen121
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count101
+\c@pgf@countb=\count102
+\c@pgf@countc=\count103
+\c@pgf@countd=\count104
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf
+.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf
+sys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf
+sys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf
+syssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count105
+\pgfsyssoftpath@bigbuffer@items=\count106
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf
+sysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+ore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.co
+de.tex
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathcal
+c.code.tex
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathuti
+l.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathpar
+ser.code.tex
+\pgfmath@dimen=\dimen122
+\pgfmath@count=\count107
+\pgfmath@box=\box31
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.code.tex
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.basic.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.trigonometric.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.random.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.comparison.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.base.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.round.code.tex)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfun
+ctions.misc.code.tex)))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathflo
+at.code.tex
+\c@pgfmathroundto@lastzeros=\count108
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen123
+\pgf@picmaxx=\dimen124
+\pgf@picminy=\dimen125
+\pgf@picmaxy=\dimen126
+\pgf@pathminx=\dimen127
+\pgf@pathmaxx=\dimen128
+\pgf@pathminy=\dimen129
+\pgf@pathmaxy=\dimen130
+\pgf@xx=\dimen131
+\pgf@xy=\dimen132
+\pgf@yx=\dimen133
+\pgf@yy=\dimen134
+\pgf@zx=\dimen135
+\pgf@zy=\dimen136
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen137
+\pgf@path@lasty=\dimen138
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen139
+\pgf@shorten@start@additional=\dimen140
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count109
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen141
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen142
+\pgf@pt@y=\dimen143
+\pgf@pt@temp=\dimen144
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen145
+\pgf@sys@shading@range@num=\count110
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box35
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+oretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfc
+orepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodu
+leshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box36
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodu
+leplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgf
+comp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen146
+\pgf@nodesepend=\dimen147
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgf
+comp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgffor.
+sty
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfkeys
+.sty
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfke
+ys.code.tex))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgffo
+r.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen148
+\pgffor@skip=\dimen149
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/t
+ikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgfli
+braryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count111
+\pgfplotmarksize=\dimen150
+)
+\tikz@lastx=\dimen151
+\tikz@lasty=\dimen152
+\tikz@lastxsaved=\dimen153
+\tikz@lastysaved=\dimen154
+\tikzleveldistance=\dimen155
+\tikzsiblingdistance=\dimen156
+\tikz@figbox=\box37
+\tikz@tempbox=\box38
+\tikztreelevel=\count112
+\tikznumberofchildren=\count113
+\tikznumberofcurrentchild=\count114
+\tikz@fig@count=\count115
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodu
+lematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count116
+\pgfmatrixcurrentcolumn=\count117
+\pgf@matrix@numberofcolumns=\count118
+)
+\tikz@expandcount=\count119
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/t
+ikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/beamer/multimedia/mul
+timedia.sty
+Package: multimedia 2012/05/02 ver 0.02
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+\mm@movie=\count120
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/doublestroke/dsfont.s
+ty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/braket/braket.sty) 
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count121
+\lst@gtempboxa=\box39
+\lst@token=\toks38
+\lst@length=\count122
+\lst@currlwidth=\dimen157
+\lst@column=\count123
+\lst@pos=\count124
+\lst@lostspace=\dimen158
+\lst@width=\dimen159
+\lst@newlines=\count125
+\lst@lineno=\count126
+\lst@maxwidth=\dimen160
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count127
+\lst@skipnumbers=\count128
+\lst@framebox=\box40
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/caption/subcaption.st
+y
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+ (c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen161
+\captionmargin@=\dimen162
+\captionwidth=\dimen163
+\caption@tempdima=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+)
+\c@ContinuedFloat=\count129
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count130
+\c@subtable=\count131
+) (./mcode.sty
+-- Package: `mcode' 2.5 <2014/03/06> --
+Package: mcode 2014/03/06 2.5
+ - settings optimized for display (colour formating)
+ - automatic line breaking enabled (careful, buggy!)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+\lbreakdots=\box41
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 229.
+
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/ieeetran/IEEEtrantool
+s.sty
+Package: IEEEtrantools 2012/12/27 V1.3 by Michael Shell
+
+-- See the "IEEEtrantools_doc.txt" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/tools/
+\@IEEEtrantmpdimenA=\dimen168
+\@IEEEtrantmpdimenB=\dimen169
+\@IEEEtrantmpcountA=\count132
+\@IEEEtrantmpcountB=\count133
+\@IEEEtrantmptoksA=\toks39
+\IEEEnormaljot=\dimen170
+\IEEEilabelindentA=\dimen171
+\IEEEilabelindentB=\dimen172
+\IEEEilabelindent=\dimen173
+\IEEEelabelindent=\dimen174
+\IEEEdlabelindent=\dimen175
+\IEEElabelindent=\dimen176
+\IEEEiednormlabelsep=\dimen177
+\IEEEiedmathlabelsep=\dimen178
+\IEEEiedtopsep=\skip49
+\c@IEEEsubequation=\count134
+\@IEEEeqnnumcols=\count135
+\@IEEEeqncolcnt=\count136
+\@IEEEsubeqnnumrollback=\count137
+\IEEEPARstartletwidth=\dimen179
+) (c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@proposition=\count138
+\c@theorem=\count139
+\c@lemma=\count140
+\c@corollary=\count141
+\c@definition=\count142
+
+(./aaron_hsu_thesis_final_corrected.aux)
+\openout1 = `aaron_hsu_thesis_final_corrected.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 54.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 54.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count143
+\scratchdimen=\dimen180
+\scratchbox=\box42
+\nofMPsegments=\count144
+\nofMParguments=\count145
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen181
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
+\everyMPtoPDFconversion=\toks41
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds
+.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.s
+ty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-bas
+e.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefineke
+ys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.st
+y
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.
+sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.s
+ty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) ABD: EveryShipout initializing macros
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 54.
+Package gensymb Info: Math companion symbols declared on input line 54.
+LaTeX Info: Redefining \degree on input line 54.
+LaTeX Info: Redefining \celsius on input line 54.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 54.
+LaTeX Info: Redefining \ohm on input line 54.
+Package gensymb Info: Using \textohm for \ohm on input line 54.
+Package gensymb Info: Using \textmu for \micro on input line 54.
+\c@lstlisting=\count149
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{c:/Program Files (x86)/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.m
+ap}]
+(./aaron_hsu_thesis_final_corrected.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `aaron_hsu_thesis_final_corrected.toc'.
+
+
+[2] [3] [4] [5]
+Overfull \hbox (5.12944pt too wide) in paragraph at lines 163--163
+[]\OT1/cmr/bx/n/14.4 A Sim-ple Ex-am-ple: The One-dimensional Ring 
+ []
+
+[6] [7]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8] [9] [10] [11] [12] [13] [14] [15] [16]
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 870.
+
+
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/doublestroke/udsrom.f
+d
+File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
+) [17] [18] [19]
+<../Matlab/URCdemo/plot_bound_states_centerperturb_20x20_bysizeofc_20140424.jpg
+, id=87, 562.1pt x 421.575pt>
+File: ../Matlab/URCdemo/plot_bound_states_centerperturb_20x20_bysizeofc_2014042
+4.jpg Graphic file (type jpg)
+
+<use ../Matlab/URCdemo/plot_bound_states_centerperturb_20x20_bysizeofc_20140424
+.jpg>
+Package pdftex.def Info: ../Matlab/URCdemo/plot_bound_states_centerperturb_20x2
+0_bysizeofc_20140424.jpg used on input line 1018.
+(pdftex.def)             Requested size: 337.2626pt x 252.94695pt.
+ [20]
+Underfull \hbox (badness 2189) in paragraph at lines 1112--1112
+[]\OT1/cmr/bx/n/14.4 The Half-infinite Two-dimensional Lat-tice
+ []
+
+[21 <../Matlab/URCdemo/plot_bound_states_centerperturb_20x20_bysizeofc_20140424
+.jpg>] [22]
+<../Matlab/plot_normratio_vs_n_different_lambdas_20140609.png, id=98, 578.16pt 
+x 380.17032pt>
+File: ../Matlab/plot_normratio_vs_n_different_lambdas_20140609.png Graphic file
+ (type png)
+
+<use ../Matlab/plot_normratio_vs_n_different_lambdas_20140609.png>
+Package pdftex.def Info: ../Matlab/plot_normratio_vs_n_different_lambdas_201406
+09.png used on input line 1201.
+(pdftex.def)             Requested size: 289.07928pt x 190.08469pt.
+
+<../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140609.png, id=99, 469
+.00218pt x 419.31656pt>
+File: ../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140609.png Graphi
+c file (type png)
+
+<use ../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140609.png>
+Package pdftex.def Info: ../Matlab/plot_normratio_vs_lambdah_different_lambdav_
+20140609.png used on input line 1206.
+(pdftex.def)             Requested size: 234.50052pt x 209.65776pt.
+
+<../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140609.png, id=100, 
+459.21562pt x 359.84438pt>
+File: ../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140609.png Grap
+hic file (type png)
+
+<use ../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140609.png>
+Package pdftex.def Info: ../Matlab/plot_spectralgap_vs_lambdah_different_lambda
+v_20140609.png used on input line 1212.
+(pdftex.def)             Requested size: 275.5315pt x 215.90828pt.
+
+[23] [24 <../Matlab/plot_normratio_vs_n_different_lambdas_20140609.png (PNG cop
+y)> <../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140609.png (PNG co
+py)>]
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.70_lh_0.60_n_30.jpg, 
+id=107, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.70_lh_0.60_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.70_lh_0.60_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_1.70_lh_0.60_n_30.jpg used on input line 1243.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_lh_0.60_n_30.jpg, 
+id=108, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_lh_0.60_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_lh_0.60_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_0.60_lh_0.60_n_30.jpg used on input line 1248.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.40_lh_1.00_n_30.jpg, 
+id=109, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.40_lh_1.00_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.40_lh_1.00_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_0.40_lh_1.00_n_30.jpg used on input line 1253.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_lh_1.60_n_30.jpg, 
+id=110, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_lh_1.60_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_lh_1.60_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_0.60_lh_1.60_n_30.jpg used on input line 1258.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.00_lh_1.60_n_30.jpg, 
+id=111, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.00_lh_1.60_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.00_lh_1.60_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_1.00_lh_1.60_n_30.jpg used on input line 1263.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.60_lh_1.60_n_30.jpg, 
+id=112, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.60_lh_1.60_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.60_lh_1.60_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_1.60_lh_1.60_n_30.jpg used on input line 1268.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.00_lh_1.00_n_30.jpg, 
+id=113, 562.1pt x 421.575pt>
+File: ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.00_lh_1.00_n_30.
+jpg Graphic file (type jpg)
+
+<use ../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.00_lh_1.00_n_30.j
+pg>
+Package pdftex.def Info: ../Matlab/DensityPlot_results_for_paper/densityplot_lv
+_1.00_lh_1.00_n_30.jpg used on input line 1273.
+(pdftex.def)             Requested size: 309.15596pt x 231.86696pt.
+
+<../Matlab/phase_diagram_from_matrixx_corrected_20140609.png, id=114, 451.6875p
+t x 347.79938pt>
+File: ../Matlab/phase_diagram_from_matrixx_corrected_20140609.png Graphic file 
+(type png)
+
+<use ../Matlab/phase_diagram_from_matrixx_corrected_20140609.png>
+Package pdftex.def Info: ../Matlab/phase_diagram_from_matrixx_corrected_2014060
+9.png used on input line 1278.
+(pdftex.def)             Requested size: 248.42888pt x 191.29024pt.
+
+Underfull \hbox (badness 2189) in paragraph at lines 1282--1282
+[]\OT1/cmr/bx/n/14.4 The Half-infinite Two-dimensional Lat-tice
+ []
+
+
+<../Matlab/plot_normratio_vs_n_different_lambdas_20140610_63.png, id=115, 554.8
+2281pt x 424.58624pt>
+File: ../Matlab/plot_normratio_vs_n_different_lambdas_20140610_63.png Graphic f
+ile (type png)
+
+<use ../Matlab/plot_normratio_vs_n_different_lambdas_20140610_63.png>
+Package pdftex.def Info: ../Matlab/plot_normratio_vs_n_different_lambdas_201406
+10_63.png used on input line 1294.
+(pdftex.def)             Requested size: 332.89626pt x 254.75371pt.
+
+<../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140610_63.png, id=116,
+ 488.57532pt x 376.40625pt>
+File: ../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140610_63.png Gra
+phic file (type png)
+
+<use ../Matlab/plot_normratio_vs_lambdah_different_lambdav_20140610_63.png>
+Package pdftex.def Info: ../Matlab/plot_normratio_vs_lambdah_different_lambdav_
+20140610_63.png used on input line 1302.
+(pdftex.def)             Requested size: 317.57019pt x 244.66115pt.
+
+<../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140610_63.png, id=11
+7, 434.37282pt x 339.51843pt>
+File: ../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140610_63.png G
+raphic file (type png)
+
+<use ../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140610_63.png>
+Package pdftex.def Info: ../Matlab/plot_spectralgap_vs_lambdah_different_lambda
+v_20140610_63.png used on input line 1308.
+(pdftex.def)             Requested size: 304.0589pt x 237.66127pt.
+
+[25] [26 <../Matlab/plot_spectralgap_vs_lambdah_different_lambdav_20140609.png 
+(PNG copy)> <../Matlab/DensityPlot_results_for_paper/densityplot_lv_1.70_lh_0.6
+0_n_30.jpg>] [27 <../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.60_l
+h_0.60_n_30.jpg> <../Matlab/DensityPlot_results_for_paper/densityplot_lv_0.40_l
+h_1.00_n_30.jpg>] [28 <../Matlab/DensityPlot_results_for_paper/densityplot_lv_0
+.60_lh_1.60_n_30.jpg> <../Matlab/DensityPlot_results_for_paper/densityplot_lv_1
+.00_lh_1.60_n_30.jpg>] [29 <../Matlab/DensityPlot_results_for_paper/densityplot
+_lv_1.60_lh_1.60_n_30.jpg> <../Matlab/DensityPlot_results_for_paper/densityplot
+_lv_1.00_lh_1.00_n_30.jpg>] [30 <../Matlab/phase_diagram_from_matrixx_corrected
+_20140609.png (PNG copy)> <../Matlab/plot_normratio_vs_n_different_lambdas_2014
+0610_63.png (PNG copy)>] [31 <../Matlab/plot_normratio_vs_lambdah_different_lam
+bdav_20140610_63.png (PNG copy)> <../Matlab/plot_spectralgap_vs_lambdah_differe
+nt_lambdav_20140610_63.png (PNG copy)>]
+Underfull \hbox (badness 8132) in paragraph at lines 1330--1331
+[]\OT1/cmr/m/n/10 Christian Rem-ling, Func-tional Anal-y-sis: Per-tur-ba-tion b
+y Com-
+ []
+
+[32] (../Matlab/PaperCode/VertexList1.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 7--9
+[][][][][][][][]  
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 30.
+(c:/Program Files (x86)/texlive/2013/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+))
+(../Matlab/PaperCode/VertexList2.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+[33]
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 7--9
+[][][][][][][][]  
+ []
+
+) (../Matlab/PaperCode/Ham1.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 7--9
+[][][][][][][][]  
+ []
+
+[34] [35]) (../Matlab/PaperCode/Ham2.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 7--9
+[][][][][][][][]  
+ []
+
+[36]) (../Matlab/PaperCode/GroundState.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 7--9
+[][][][][][][][]  
+ []
+
+[37]) (../Matlab/PaperCode/NormRatio.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 6--8
+[][][][][][][][]  
+ []
+
+) (../Matlab/PaperCode/ReturnSpectralGap.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 8--10
+[][][][][][][][]  
+ []
+
+[38]) (../Matlab/PaperCode/PlotSpectralGap.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 9--11
+[][][][][][][][]  
+ []
+
+) (../Matlab/PaperCode/PlotNormRatioByN.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 9--11
+[][][][][][][][]  
+ []
+
+[39]) (../Matlab/PaperCode/PlotNormRatioByLambdah.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 9--11
+[][][][][][][][]  
+ []
+
+[40]) (../Matlab/PaperCode/DensityPlot1.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 14--16
+[][][][][][][][]  
+ []
+
+[41]) (../Matlab/PaperCode/MultipleDensityPlots.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 12--14
+[][][][][][][][]  
+ []
+
+[42]) (../Matlab/PaperCode/CreatePhaseDiagram.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 11--13
+[][][][][][][][]  
+ []
+
+[43] [44]) (../Matlab/PaperCode/RecreatePhaseDiagram.m
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 1--2
+[][][][][][][][]  
+ []
+
+
+Overfull \hbox (0.60352pt too wide) in paragraph at lines 13--15
+[][][][][][][][]  
+ []
+
+[45] [46]) [47] (./aaron_hsu_thesis_final_corrected.aux) ) 
+Here is how much of TeX's memory you used:
+ 14663 strings out of 493308
+ 271023 string characters out of 6132456
+ 404047 words of memory out of 5000000
+ 17742 multiletter control sequences out of 15000+600000
+ 16472 words of font info for 65 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 56i,17n,55p,1280b,1497s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Program Files (x8
+6)/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Program Files (x86)/
+texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/Program F
+iles (x86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c
+:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/Program Files (x86)/texlive/2013/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/Program Files (x86)/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Program Files 
+(x86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Prog
+ram Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr9.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Program Files (x86)/texlive/2013/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/Program Files (x86)/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Program Files (x
+86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/Progr
+am Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/doublestroke/dsrom10.
+pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msam10.pfb><c:/Program Files (x86)/texlive/2013/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msam7.pfb><c:/Program Files (x86)/texlive/2013/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/Program Files (x86)/texl
+ive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/Program Files 
+(x86)/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on aaron_hsu_thesis_final_corrected.pdf (47 pages, 1072366 bytes
+).
+PDF statistics:
+ 266 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+
